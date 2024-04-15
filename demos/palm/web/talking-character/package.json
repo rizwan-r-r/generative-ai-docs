@@ -15,7 +15,7 @@
     "@types/dom-speech-recognition": "^0.0.1",
     "@types/jest": "^27.5.2",
     "@types/node": "^16.18.14",
-    "@types/react": "^18.0.28",
+    "@types/react": "^18.2.69",
     "@types/react-dom": "^18.0.11",
     "@types/three": "^0.149.0",
     "buffer": "^6.0.3",
