@@ -16,7 +16,7 @@
     "@reduxjs/toolkit": "^1.8.6",
     "html-table-to-json": "^1.0.0",
     "lottie-react": "^2.4.0",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^13.0.2",
     "markdown-tables-to-json": "^0.1.7",
     "react": "^18.2.0",
     "react-app-rewired": "^2.2.1",
